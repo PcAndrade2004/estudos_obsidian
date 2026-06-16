@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "188207f99218bb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfffbe774bd83f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18d1b50b89f46ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Fundamentos/Data e Hora/LocalDate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LocalDate"
+            }
+          },
+          {
+            "id": "40bff4816cf7eb89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Fundamentos/String.format.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String.format"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf4fb8f5e0dcc9b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8596465d97b0c2f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787c04f313d64160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "bea5edb8bf6b0ba0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b9c4d70d6be90165",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "537532af51c59964",
+    "type": "split",
+    "children": [
+      {
+        "id": "9220367239538fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b89a8714ed97d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UML/Relacionamentos UML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Relacionamentos UML"
+            }
+          },
+          {
+            "id": "8a706fc7f8cfec83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UML/Relacionamentos UML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Relacionamentos UML"
+            }
+          },
+          {
+            "id": "61de03c4c16360f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a0db7dcb2455bfb5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "cf7a608b596252e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UML/Relacionamentos UML.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Relacionamentos UML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b18d1b50b89f46ef",
+  "lastOpenFiles": [
+    "04.Teste Automatizados/JUnit.md",
+    "01.Fundamentos/String.format.md",
+    "03.Coleções/RemoveIf().md",
+    "03.Coleções/List.md",
+    "01.Fundamentos/Data e Hora/LocalDate.md",
+    "Imagens/JUnit/Pasted image 20260610113130.png",
+    "Imagens/Datas-Horas",
+    "Imagens/JUnit",
+    "Imagens/JUnit/Pasted image 20260610122655.png",
+    "Imagens/JUnit/Pasted image 20260610113153.png",
+    "04.Teste Automatizados",
+    "02.POO/ENUM.md",
+    "Imagens",
+    "Imagens/Datas-Horas/Comprar-Datas.png",
+    "Excalidraw/Drawing 2026-06-01 16.44.25.excalidraw.md",
+    "Duvidas/ChronoUnit.DAYS.between().md",
+    "Duvidas/DateTimeFormatter.md",
+    "02.POO/Herança.md",
+    "02.POO/Interface.md",
+    "01.Fundamentos/StringBuilder.md",
+    "Duvidas",
+    "UML/01 - Agregação.md",
+    "01.Fundamentos/Data e Hora",
+    "GitHub/Branch.md",
+    "UML/Relacionamentos UML.md",
+    "UML/02 - Associação.md",
+    "02.POO/Abstração.md",
+    "02.POO/Encapsulamento.md",
+    "Excalidraw/Drawing 2026-06-01 16.45.05.excalidraw.md",
+    "Excalidraw",
+    "GS/Métodos Explicações.md",
+    "GS",
+    "UML/Imagens",
+    "UML/Imagens/Pasted image 20260525185951.png",
+    "UML/Imagens/Pasted image 20260525185920.png",
+    "UML/Imagens/Pasted image 20260525185719.png",
+    "UML/Imagens/Pasted image 20260525185511.png",
+    "GitHub",
+    "04.Agregação/Agregação.md",
+    "Java/Agregação.md",
+    "Bem-vindo.md"
+  ]
+}
